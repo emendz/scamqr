@@ -3,7 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  copyRight: 'Ministerio de Medio Ambiente y Recursos Naturales',
+  copyRightLink: 'https://ambiente.gob.do/',
+  apiUrl: 'https://localhost:44324/api',
 };
 
 /*

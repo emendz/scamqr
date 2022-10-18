@@ -1,0 +1,45 @@
+<div class="row justify-content-center mt-5">
+  <div class="col-md-6">
+    <div class="text-center">
+      <div class="alert alert-warning" role="alert">
+        <p>
+          Acerque el código QR a la camara hasta que se muestre el boton de
+          <b>Ver información</b>
+        </p>
+      </div>
+      <select
+        #selectList
+        (change)="selectCamera(selectList.value)"
+        class="form-select"
+      >
+        <option *ngFor="let camera of cameras" value="{{ camera.label }}">
+          {{ camera.label }}
+        </option>
+      </select>
+      <div class="d-flex flex-row justify-content-center alig-items-center">
+        <zxing-scanner
+          class="camera-size"
+          [enable]="scannerEnabled"
+          [device]="myDevice"
+          (camerasFound)="camerasFoundHandler($event)"
+          (scanSuccess)="scanSuccessHandler($event)"
+        ></zxing-scanner>
+      </div>
+      <div *ngIf="showButton">
+        <div class="alert alert-success" role="alert">
+          <b>Código: </b>{{ results }}
+        </div>
+        <div class="m-2">
+          <div class="d-grid gap-2 d-md-block">
+            <a class="btn btn-outline-primary" href="form/1">Ver informacion</a>
+          </div>
+          <div class="d-grid gap-2 d-md-block">
+            <button class="btn btn-outline-danger" (click)="reset()">
+              Resetear
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

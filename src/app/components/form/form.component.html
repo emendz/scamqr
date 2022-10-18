@@ -1,0 +1,27 @@
+<div class="container" style="margin-top: 4rem !important">
+  <div *ngIf="dataJson">
+    <div class="card">
+      <div class="card-header">Información general</div>
+      <div class="card-body">
+        <p class="card-text"><b>Total de ticket: </b>{{ dataJson.cantidad }}</p>
+        <p class="card-text"><b>Descripción: </b>{{ dataJson.descripcion }}</p>
+      </div>
+    </div>
+    <hr />
+    <form>
+      <legend>Ingresar la numeración de los cintillos a los tickets.</legend>
+      <div class="mb-3" *ngFor="let item of dataJson?.tickets">
+        <label for="exampleInputEmail1" class="form-label"
+          >Ticket código #{{ item.id }}</label
+        >
+        <input
+          type="number"
+          class="form-control"
+          id="exampleInputEmail1"
+          aria-describedby="emailHelp"
+        />
+      </div>
+      <button type="submit" class="btn btn-primary">Dar entrada</button>
+    </form>
+  </div>
+</div>

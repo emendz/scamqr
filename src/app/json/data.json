@@ -1,0 +1,31 @@
+{
+  "id": 1,
+  "facturaId": 1,
+  "descripcion": "descripcion 1",
+  "cantidad": 3,
+  "precioUnitario": 100,
+  "total": 300,
+  "tickets": [
+    {
+      "id": 1,
+      "facturaDetalleId": 1,
+      "parqueId": 1,
+      "fechaCompra": "2022-10-18T16:10:39.307Z",
+      "usado": false
+    },
+    {
+      "id": 2,
+      "facturaDetalleId": 1,
+      "parqueId": 1,
+      "fechaCompra": "2022-10-18T16:10:39.307Z",
+      "usado": false
+    },
+    {
+      "id": 3,
+      "facturaDetalleId": 1,
+      "parqueId": 1,
+      "fechaCompra": "2022-10-18T16:10:39.307Z",
+      "usado": false
+    }
+  ]
+}

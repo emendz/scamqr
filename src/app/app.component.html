@@ -1,15 +1,2 @@
-<h1>Hola</h1>
-<select #selectList (change)="selectCamera(selectList.value)">
-  <option *ngFor="let camera of cameras" value="{{ camera.label }}">
-    {{ camera.label }}
-  </option>
-</select>
-
-<zxing-scanner
-  style="width: 500px"
-  [enable]="scannerEnabled"
-  [device]="myDevice"
-  (camerasFound)="camerasFoundHandler($event)"
-  (scanSuccess)="scanSuccessHandler($event)"
-></zxing-scanner>
-<p *ngFor="let result of results">{{ result }}</p>
+<app-header></app-header>
+<router-outlet></router-outlet>

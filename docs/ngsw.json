@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1666066872061,
+  "timestamp": 1666112543750,
   "index": "MA-SISPNA-SCANQR/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,12 @@
       "urls": [
         "MA-SISPNA-SCANQR/favicon.ico",
         "MA-SISPNA-SCANQR/index.html",
-        "MA-SISPNA-SCANQR/main.eb55ba49989ac291.js",
+        "MA-SISPNA-SCANQR/main.c834541107bda18d.js",
         "MA-SISPNA-SCANQR/manifest.webmanifest",
         "MA-SISPNA-SCANQR/polyfills.e8cb595e229bcf4f.js",
-        "MA-SISPNA-SCANQR/runtime.3be6a0e3ba4b862b.js",
-        "MA-SISPNA-SCANQR/styles.ef46db3751d8e999.css"
+        "MA-SISPNA-SCANQR/runtime.e829f167c5f61c7d.js",
+        "MA-SISPNA-SCANQR/scripts.2d4e4c799113ec94.js",
+        "MA-SISPNA-SCANQR/styles.a652f826dd670f5b.css"
       ],
       "patterns": []
     },
@@ -36,7 +37,8 @@
         "MA-SISPNA-SCANQR/assets/icons/icon-384x384.png",
         "MA-SISPNA-SCANQR/assets/icons/icon-512x512.png",
         "MA-SISPNA-SCANQR/assets/icons/icon-72x72.png",
-        "MA-SISPNA-SCANQR/assets/icons/icon-96x96.png"
+        "MA-SISPNA-SCANQR/assets/icons/icon-96x96.png",
+        "MA-SISPNA-SCANQR/assets/icons/logo.png"
       ],
       "patterns": []
     }
@@ -51,13 +53,15 @@
     "MA-SISPNA-SCANQR/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "MA-SISPNA-SCANQR/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "MA-SISPNA-SCANQR/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "MA-SISPNA-SCANQR/assets/icons/logo.png": "05fe556d78ceace994aa18e3a600c10eca6e71fd",
     "MA-SISPNA-SCANQR/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "MA-SISPNA-SCANQR/index.html": "ea224b968705d2ce435a65c22c2fb6b5c1b2b8fc",
-    "MA-SISPNA-SCANQR/main.eb55ba49989ac291.js": "fa907af454ab675a0e00509a36ff6f62d932fa40",
+    "MA-SISPNA-SCANQR/index.html": "36a2ad6c9b4405851ee89cb671ab4e7fbf01b978",
+    "MA-SISPNA-SCANQR/main.c834541107bda18d.js": "89dd78d4cec4e47bd5f023fc86296c03ed392589",
     "MA-SISPNA-SCANQR/manifest.webmanifest": "e3ae70aadf4d10807707ab82df72f5d18b9a00bc",
     "MA-SISPNA-SCANQR/polyfills.e8cb595e229bcf4f.js": "33a78827d5b3cbecf7730e29510b803ef3c9627d",
-    "MA-SISPNA-SCANQR/runtime.3be6a0e3ba4b862b.js": "88569bfe28c49e1f620ead1cfbf9de66cdb2e55d",
-    "MA-SISPNA-SCANQR/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "MA-SISPNA-SCANQR/runtime.e829f167c5f61c7d.js": "2a6d64e271d3e7b0196f4f4f96101ecd206d24e3",
+    "MA-SISPNA-SCANQR/scripts.2d4e4c799113ec94.js": "195b7d2c15839d0853e7b5f14f508e43cd7b4aa5",
+    "MA-SISPNA-SCANQR/styles.a652f826dd670f5b.css": "bed45eb423611f466b123e45ca3fb3f0423b77c5"
   },
   "navigationUrls": [
     {
