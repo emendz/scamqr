@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1666112543750,
-  "index": "MA-SISPNA-SCANQR/index.html",
+  "timestamp": 1666115442338,
+  "index": "scamqr/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "MA-SISPNA-SCANQR/favicon.ico",
-        "MA-SISPNA-SCANQR/index.html",
-        "MA-SISPNA-SCANQR/main.c834541107bda18d.js",
-        "MA-SISPNA-SCANQR/manifest.webmanifest",
-        "MA-SISPNA-SCANQR/polyfills.e8cb595e229bcf4f.js",
-        "MA-SISPNA-SCANQR/runtime.e829f167c5f61c7d.js",
-        "MA-SISPNA-SCANQR/scripts.2d4e4c799113ec94.js",
-        "MA-SISPNA-SCANQR/styles.a652f826dd670f5b.css"
+        "scamqr/favicon.ico",
+        "scamqr/index.html",
+        "scamqr/main.c834541107bda18d.js",
+        "scamqr/manifest.webmanifest",
+        "scamqr/polyfills.e8cb595e229bcf4f.js",
+        "scamqr/runtime.e829f167c5f61c7d.js",
+        "scamqr/scripts.2d4e4c799113ec94.js",
+        "scamqr/styles.a652f826dd670f5b.css"
       ],
       "patterns": []
     },
@@ -30,38 +30,38 @@
         "ignoreVary": true
       },
       "urls": [
-        "MA-SISPNA-SCANQR/assets/icons/icon-128x128.png",
-        "MA-SISPNA-SCANQR/assets/icons/icon-144x144.png",
-        "MA-SISPNA-SCANQR/assets/icons/icon-152x152.png",
-        "MA-SISPNA-SCANQR/assets/icons/icon-192x192.png",
-        "MA-SISPNA-SCANQR/assets/icons/icon-384x384.png",
-        "MA-SISPNA-SCANQR/assets/icons/icon-512x512.png",
-        "MA-SISPNA-SCANQR/assets/icons/icon-72x72.png",
-        "MA-SISPNA-SCANQR/assets/icons/icon-96x96.png",
-        "MA-SISPNA-SCANQR/assets/icons/logo.png"
+        "scamqr/assets/icons/icon-128x128.png",
+        "scamqr/assets/icons/icon-144x144.png",
+        "scamqr/assets/icons/icon-152x152.png",
+        "scamqr/assets/icons/icon-192x192.png",
+        "scamqr/assets/icons/icon-384x384.png",
+        "scamqr/assets/icons/icon-512x512.png",
+        "scamqr/assets/icons/icon-72x72.png",
+        "scamqr/assets/icons/icon-96x96.png",
+        "scamqr/assets/icons/logo.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "MA-SISPNA-SCANQR/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "MA-SISPNA-SCANQR/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "MA-SISPNA-SCANQR/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "MA-SISPNA-SCANQR/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "MA-SISPNA-SCANQR/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "MA-SISPNA-SCANQR/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "MA-SISPNA-SCANQR/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "MA-SISPNA-SCANQR/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "MA-SISPNA-SCANQR/assets/icons/logo.png": "05fe556d78ceace994aa18e3a600c10eca6e71fd",
-    "MA-SISPNA-SCANQR/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "MA-SISPNA-SCANQR/index.html": "36a2ad6c9b4405851ee89cb671ab4e7fbf01b978",
-    "MA-SISPNA-SCANQR/main.c834541107bda18d.js": "89dd78d4cec4e47bd5f023fc86296c03ed392589",
-    "MA-SISPNA-SCANQR/manifest.webmanifest": "e3ae70aadf4d10807707ab82df72f5d18b9a00bc",
-    "MA-SISPNA-SCANQR/polyfills.e8cb595e229bcf4f.js": "33a78827d5b3cbecf7730e29510b803ef3c9627d",
-    "MA-SISPNA-SCANQR/runtime.e829f167c5f61c7d.js": "2a6d64e271d3e7b0196f4f4f96101ecd206d24e3",
-    "MA-SISPNA-SCANQR/scripts.2d4e4c799113ec94.js": "195b7d2c15839d0853e7b5f14f508e43cd7b4aa5",
-    "MA-SISPNA-SCANQR/styles.a652f826dd670f5b.css": "bed45eb423611f466b123e45ca3fb3f0423b77c5"
+    "scamqr/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "scamqr/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "scamqr/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "scamqr/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "scamqr/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "scamqr/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "scamqr/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "scamqr/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "scamqr/assets/icons/logo.png": "05fe556d78ceace994aa18e3a600c10eca6e71fd",
+    "scamqr/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "scamqr/index.html": "db36a5a03f28f5743362cf10c5e0e5e1f059d51b",
+    "scamqr/main.c834541107bda18d.js": "89dd78d4cec4e47bd5f023fc86296c03ed392589",
+    "scamqr/manifest.webmanifest": "e3ae70aadf4d10807707ab82df72f5d18b9a00bc",
+    "scamqr/polyfills.e8cb595e229bcf4f.js": "33a78827d5b3cbecf7730e29510b803ef3c9627d",
+    "scamqr/runtime.e829f167c5f61c7d.js": "2a6d64e271d3e7b0196f4f4f96101ecd206d24e3",
+    "scamqr/scripts.2d4e4c799113ec94.js": "195b7d2c15839d0853e7b5f14f508e43cd7b4aa5",
+    "scamqr/styles.a652f826dd670f5b.css": "bed45eb423611f466b123e45ca3fb3f0423b77c5"
   },
   "navigationUrls": [
     {
