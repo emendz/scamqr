@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1666066872061,
+  "index": "MA-SISPNA-SCANQR/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "MA-SISPNA-SCANQR/favicon.ico",
+        "MA-SISPNA-SCANQR/index.html",
+        "MA-SISPNA-SCANQR/main.eb55ba49989ac291.js",
+        "MA-SISPNA-SCANQR/manifest.webmanifest",
+        "MA-SISPNA-SCANQR/polyfills.e8cb595e229bcf4f.js",
+        "MA-SISPNA-SCANQR/runtime.3be6a0e3ba4b862b.js",
+        "MA-SISPNA-SCANQR/styles.ef46db3751d8e999.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "MA-SISPNA-SCANQR/assets/icons/icon-128x128.png",
+        "MA-SISPNA-SCANQR/assets/icons/icon-144x144.png",
+        "MA-SISPNA-SCANQR/assets/icons/icon-152x152.png",
+        "MA-SISPNA-SCANQR/assets/icons/icon-192x192.png",
+        "MA-SISPNA-SCANQR/assets/icons/icon-384x384.png",
+        "MA-SISPNA-SCANQR/assets/icons/icon-512x512.png",
+        "MA-SISPNA-SCANQR/assets/icons/icon-72x72.png",
+        "MA-SISPNA-SCANQR/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "MA-SISPNA-SCANQR/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "MA-SISPNA-SCANQR/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "MA-SISPNA-SCANQR/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "MA-SISPNA-SCANQR/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "MA-SISPNA-SCANQR/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "MA-SISPNA-SCANQR/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "MA-SISPNA-SCANQR/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "MA-SISPNA-SCANQR/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "MA-SISPNA-SCANQR/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "MA-SISPNA-SCANQR/index.html": "ea224b968705d2ce435a65c22c2fb6b5c1b2b8fc",
+    "MA-SISPNA-SCANQR/main.eb55ba49989ac291.js": "fa907af454ab675a0e00509a36ff6f62d932fa40",
+    "MA-SISPNA-SCANQR/manifest.webmanifest": "e3ae70aadf4d10807707ab82df72f5d18b9a00bc",
+    "MA-SISPNA-SCANQR/polyfills.e8cb595e229bcf4f.js": "33a78827d5b3cbecf7730e29510b803ef3c9627d",
+    "MA-SISPNA-SCANQR/runtime.3be6a0e3ba4b862b.js": "88569bfe28c49e1f620ead1cfbf9de66cdb2e55d",
+    "MA-SISPNA-SCANQR/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
