@@ -22,7 +22,9 @@
     "@zxing/ngx-scanner": "^3.6.2",
     "bootstrap": "^5.2.2",
     "ngx-scanner-qrcode": "^1.0.23",
+    "ngx-toastr": "^15.2.1",
     "rxjs": "~7.4.0",
+    "sweetalert2": "^11.5.2",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
   },

@@ -1,7 +1,7 @@
 {
   "name": "MA-SISPNA-SCANQR",
   "short_name": "MA-SISPNA-SCANQR",
-  "theme_color": "#1976d2",
+  "theme_color": "#002d68",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",

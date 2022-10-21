@@ -1,7 +1,7 @@
-<div class="row justify-content-center mt-5">
+<div class="row justify-content-center" style="margin-top: 4rem !important">
   <div class="col-md-6">
     <div class="text-center">
-      <div class="alert alert-warning" role="alert">
+      <div class="alert alert-warning mt-2" role="alert">
         <p>
           Acerque el código QR a la camara hasta que se muestre el boton de
           <b>Ver información</b>
@@ -31,7 +31,7 @@
         </div>
         <div class="m-2">
           <div class="d-grid gap-2 d-block mb-1">
-            <a class="btn btn-outline-primary" routerLink="/form/1"
+            <a class="btn btn-outline-primary" [routerLink]="['/form', results]"
               >Ver informacion</a
             >
           </div>
